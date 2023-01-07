@@ -32,5 +32,21 @@
       "Price": 500000,
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqJ1ibHlzxA5ijug3rGgNoKoGHOwZf80DTVyia3eM9w&s"
     }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "email": "sohilkhanhatewa@gmail.com",
+      "username": "sohil",
+      "password": "sohil123",
+      "confirm": "sohil123"
+    }
+  ],
+  "signin": [
+    {
+      "id": 1,
+      "username": "sohil",
+      "password": "sohil123"
+    }
   ]
 }
