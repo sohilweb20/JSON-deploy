@@ -51,21 +51,115 @@
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIqJ1ibHlzxA5ijug3rGgNoKoGHOwZf80DTVyia3eM9w&s"
     }
   ],
-  "signup": [
+  "tasks": [],
+  "HeadPhone": [
     {
       "id": 1,
-      "email": "sohilkhanhatewa@gmail.com",
-      "username": "sohil",
-      "password": "sohil123",
-      "confirm": "sohil123"
-    }
-  ],
-  "signin": [
+      "Title": "KZ - ZEX",
+      "Heading": "In-Ears With 1 DD + 1 EST Driver",
+      "Reviews": "747 reviews",
+      "Brand": "Micro",
+      "Price": "₹ 1,799 ",
+      "Colour": "Black",
+      "Regular Price": " MRP: ₹ 2,499",
+      "Details": "The ZEX has got to be one of the best thought out and constructed budget IEM KZ has put out in a while. The KZ ZEX are great as an introduction to better-quality earphones or as an all-rounder that delivers engaging sound without breaking the bank account.",
+      "Poster": "https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-KZ-ZEX-Black-2_300x.jpg?v=1632918833"
+    },
     {
-      "id": 1,
-      "username": "sohil",
-      "password": "sohil123"
+      "id": 2,
+      "Title": "SONY - WH-1000XM5",
+      "Heading": "Flagship Noise Cancelling Headphones",
+      "Reviews": "39 reviews",
+      "Brand": "sony",
+      "Price": "₹ 26,990 ",
+      "Colour": "Black",
+      "Regular Price": "MRP: ₹ 34,990",
+      "Details": "SONY REWRITES ALL THE RULES FOR WHAT A HEADPHONE CAN OFFER WITH THE ALL-NEW WH-1000XM5",
+      "Poster": "https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Sony-WH-1000XM5-Black_900x.jpg?v=1663741826"
+    },
+    {
+      "id": 3,
+      "Title": "BEYERDYNAMIC",
+      "Heading": "BEYERDYNAMIC - AMIRON WIRELESS",
+      "Reviews": "30 reviews",
+      "Brand": "BEYERDYNAMIC",
+      "Price": "₹ 51,490 ",
+      "Colour": "Black",
+      "Regular Price": "MRP: ₹ 61,788",
+      "Details": "BETTERMENT OF THE BEST: AMIR-ON, WORLD OFF",
+      "Poster": "https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Beyerdynamic-Amiron-Wireless-1160-1160-1_900x.jpg?v=1594124627"
+    },
+    {
+      "id": 4,
+      "Title": "MARSHALL",
+      "Heading": "MARSHALL - MAJOR IV",
+      "Reviews": "39 reviews",
+      "Brand": "MARSHALL",
+      "Price": "₹ 12,990 ",
+      "Colour": "Black",
+      "Regular Price": "MRP: ₹ 14,990",
+      "Details": "THE ICONIC MARSHALL SOUND SIGNATURE FOR A MOVING MUSIC LISTENING EXPERIENCE",
+      "Poster": "https://cdn.shopify.com/s/files/1/0153/8863/products/Marshall-Major-4-Black-1_900x.jpg?v=1616481613"
+    },
+    {
+      "id": 5,
+      "Title": "V-MODA",
+      "Heading": "V-MODA - CROSSFADE 2 WIRELESS CODEX EDITION",
+      "Reviews": "25 reviews",
+      "Brand": "Micro",
+      "Price": "₹ 1,799 ",
+      "Colour": "Black",
+      "Regular Price": " MRP: ₹ 29,990",
+      "Details": "Crossfade 2 Wireless Codex Edition headphones come as an upgrade and are the most sonically accurate headphones V-MODA has yet produced. It is built to last decades, and the sound quality is exceptional.",
+      "Poster": "https://cdn.shopify.com/s/files/1/0153/8863/products/V-moda-Crossfade-Codex-black-new-01_900x.jpg?v=1599306454"
+    },
+    {
+      "id": 6,
+      "Title": "SHURE",
+      "Heading": "SHURE - AONIC 50",
+      "Reviews": "35 reviews",
+      "Brand": "SHURE",
+      "Price": "₹ 26,999 ",
+      "Colour": "Brown",
+      "Regular Price": "MRP: ₹ 42,100",
+      "Details": "Why should you get the Shure AONIC 50? Simply put, it's the best-sounding wireless headphones available in the segment. For audiophiles looking for great sound on the move as well as active noise cancellation, the Shure AONIC 50 is a winner.",
+      "Poster": "https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Shure-AONIC-50-1160-1160-Brown_900x.jpg?v=1660630572"
+    },
+    {
+      "id": 7,
+      "Title": "SHURE",
+      "Heading": "SHURE - AONIC 40",
+      "Reviews": "32 reviews",
+      "Brand": "SHURE",
+      "Price": "₹ 22,999 ",
+      "Colour": "White/Tan",
+      "Regular Price": "MRP: ₹ 35,400",
+      "Details": "TREAT YOURSELF TO THE CLEAR STUDIO QUALITY SOUND WIRELESSLY WITH",
+      "Poster": "https: //cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Shure-AONIC-40-Black-1_900x.jpg?v=1641452151"
+    },
+    {
+      "id": 8,
+      "Title": "SENNHEISER",
+      "Heading": "SENNHEISER - MOMENTUM 4 WIRELESS",
+      "Reviews": "No reviews",
+      "Brand": "SENNHEISER",
+      "Price": "MRP: ₹ 34,990",
+      "Colour": "Black",
+      "Regular Price": "MRP: ₹ 44,990",
+      "Details": "INTRODUCING SENNHEISER MOMENTUM 4 WIRELESS - AN ADDITION TO THE WIDELY POPULAR MOMENTUM WIRELESS SERIES",
+      "Poster": "https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Sennheiser-MOMENTUM-4-Wireless-18_900x.jpg?v=1663146149"
+    },
+    {
+      "id": 9,
+      "Title": "SONY",
+      "Heading": "SONY - INZONE H7",
+      "Reviews": "No reviews",
+      "Brand": "SONY",
+      "Price": "MRP: ₹ 12,990",
+      "Colour": "White",
+      "Regular Price": "MRP: ₹ 44,990",
+      "Details": "SONY PRESENTS THE INZONE H7 GAMING WIRELESS HEADPHONE, DESIGNED WITH SUSTAINABILITY IN MIND",
+      "Poster": "https://cdn.shopify.com/s/files/1/0153/8863/products/Headphone-Zone-Sony-INZONE-H7-15_900x.jpg?v=1664533518"
     }
-  ],
-  "tasks": []
+  ]
 }
